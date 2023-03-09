@@ -1,0 +1,10 @@
+Harmonic mean 
+Standard deviation 
+Talk Accuracy and precision 
+Precision and recall 
+Arithmetic mean 
+Evaluation measures information retrieval 
+Weighted arithmetic mean 
+Confidence interval 
+Algorithms for calculating variance 
+Accuracy and precision 

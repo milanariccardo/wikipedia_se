@@ -1,0 +1,10 @@
+Least squares 
+Linear least squares 
+Ordinary least squares 
+Polynomial least squares 
+Linear regression 
+Coefficient of determination 
+Total least squares 
+Non linear least squares 
+Lack of fit sum of squares 
+Least absolute deviations 
